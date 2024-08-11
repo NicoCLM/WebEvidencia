@@ -16,6 +16,7 @@ El puerto del proyecto es http://localhost:8080
 
 ![image](https://github.com/user-attachments/assets/6a019a50-c8b4-4c5b-ae17-696da3d35f4d)
 ![image](https://github.com/user-attachments/assets/1ae3bd0a-241d-4dec-93e1-9d7dc0af7328)
+![image](https://github.com/user-attachments/assets/5936ec4e-5bef-4910-867e-ce9cbf69ec5a)
 
 
 ----------------------------------------------------------------------
