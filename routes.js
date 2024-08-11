@@ -58,7 +58,7 @@ routes.post('/signup', (req, res) => {
             return res.send(err);
         }
 
-        const sql = 'INSERT INTO usuario (nombre, email, clave, ciutdad) VALUES (?, ?, ?, ?)';
+        const sql = 'INSERT INTO usuario (nombre, email, clave, ciudad) VALUES (?, ?, ?, ?)';
         const values = [name, email, password, city];
 
         conn.query(sql, values, (err, results) => {
