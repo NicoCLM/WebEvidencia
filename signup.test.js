@@ -40,7 +40,7 @@ describe('Ruta de signup', () => {
     expect(response.headers.location).toBe('/'); // Verifica redirección
   });
 
-  it('Si los campos del formulario están vacíos, mostrará error en los campos vacíos.', async () => {
+  it('Si los campos del formulario están vacíos, mostrará error.', async () => {
     const response = await request(server)
       .post('/api/signup')
       .send({
